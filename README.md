@@ -2,7 +2,12 @@ Terms and Conditions for SMS Messaging
 
 Effective Date: September 22, 2026
 
-By opting in to receive SMS/text messages from Crossbar Academy, you agree to the following Terms and Conditions.
+By opting in to receive SMS messages from Crossbar Academy, you agree to receive customer care messages.
+
+Message frequency: Message frequency may vary. On average, 1-2 messages per month.
+Message and data rates: Message and data rates may apply.
+Privacy Policy: https://github.com/jchinchillagoto/crossbaracademyPP
+You can reply STOP to unsubscribe at any time and reply HELP for assistance.
 
 Business Information
 
